@@ -11,7 +11,7 @@ description: |
 
 owner: AI Mentor # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
-email: contact@aagdinsights.com
+email: contact@aimentor.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://aimentor.io" # the base hostname & protocol for your site
 social:
