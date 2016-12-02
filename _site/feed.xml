@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artificial Intelligence Mentor</title>
+    <description>This is your personal study Mentor. 
+His sacred mission is to help you in exploring new fields or extending your knowledge by generating a nicely designed courses. 
+The materials of the courses are always to be built personally for you and adapted to your level and free time. 
+There are various materials sources and types updating daily and brought to you for free. 
+</description>
+    <link>http://aimentor.io/</link>
+    <atom:link href="http://aimentor.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 02 Dec 2016 16:02:14 +0300</pubDate>
+    <lastBuildDate>Fri, 02 Dec 2016 16:02:14 +0300</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+  </channel>
+</rss>
